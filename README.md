@@ -1,9 +1,13 @@
 # Projeto CP2 mobile: App de produtos tecnologicos
 
-Utilizei a boa pratica de Clean Arquitect, seguindo a estrutura de pastas padrão.
-Utilizei o Async Storage para salvar os produtos!
-Utilizei a pasta Store para tirar as regras de negócio da minha classe de ProductDetails (Remover e Adicionar produtos ao carrinho)
-Criei um JSON tambem para meus produtos como (Fone de ouvido, teclado e mouse)
+- Utilizei a boa pratica de Clean Arquitect, seguindo a estrutura de pastas padrão.
+- Utilizei o Async Storage para salvar os produtos!
+- Utilizei a pasta Store para tirar as regras de negócio da minha classe de ProductDetails (Remover e Adicionar produtos ao carrinho)
+- Criei um JSON tambem para meus produtos como (Fone de ouvido, teclado e mouse)
+
+
+
+------------------------------------------
 
 
 
