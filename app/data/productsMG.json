@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Fone Bluetooth",
+    "description": "Fone de ouvido sem fio com cancelamento de ruído.",
+    "image": "fone-bluetoo.png"
+  },
+  {
+    "id": "2",
+    "title": "Teclado Mecânico",
+    "description": "Teclado RGB com switches azuis.",
+    "image": "teclado.png"
+  },
+  {
+    "id": "3",
+    "title": "Mouse Gamer",
+    "description": "Mouse ergonômico com sensor óptico de alta precisão.",
+    "image": "mouse.png"
+  }
+]
